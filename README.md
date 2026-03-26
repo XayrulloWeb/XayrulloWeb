@@ -1,17 +1,18 @@
 <!-- =========================
-        HERO
+        XAYRUSH README
 ========================== -->
+
 <h1 align="center">
-  Hi, I'm <span style="color:#2F81F7;">Xayrullo Raxmonberganov</span> 👋
+  Xayrush
 </h1>
 
 <p align="center">
-  <b>Frontend-Focused Full Stack Developer</b><br/>
-  Building modern web apps, PWAs, dashboards, and real-world digital products ⚡
+  <b>Xayrullo Raxmonberganov</b><br/>
+  Frontend-Focused Full Stack Developer from Uzbekistan
 </p>
 
 <p align="center">
-  Based in Uzbekistan 🇺🇿
+  I build modern web products with clean UI, practical architecture, and real-world usability.
 </p>
 
 <p align="center">
@@ -40,59 +41,51 @@
 
 ---
 
-## 🚀 About Me
+## About
 
-- I build **modern web applications** with a strong focus on **frontend quality, clean UI, and real-world usability**
-- I work with **React, Vite, Tailwind CSS, Express, and PostgreSQL**
-- I enjoy creating **responsive interfaces, reusable components, dashboards, and production-ready web products**
-- I can independently handle the full cycle: **development, deployment, domain/server setup, and maintenance**
-- One of my real projects is **FilmZone** — a movie platform that I built and manage on my own 🎬
+I’m a Full Stack Developer with a strong focus on frontend development.  
+I work with modern technologies such as **React, Vite, Tailwind CSS, Express, and PostgreSQL** to build responsive, scalable, and polished digital products.
 
----
-
-## 🧠 Featured Projects
-
-### 🎬 FilmZone — Movie Platform
-A movie-focused web project that I built and manage independently.
-
-- **Role:** Full Stack Developer
-- **Stack:** React, Vite, Tailwind CSS, JavaScript, Express, PostgreSQL
-- **Highlights:**
-  - Built the frontend and core user experience
-  - Managed deployment, domain, and server setup
-  - Integrated video player workflow and responsive UI
-
-**Links:**  
+My main interest is creating interfaces that feel clean, fast, and practical.  
+I enjoy working on real projects from idea to launch — including development, deployment, domain setup, server setup, and ongoing maintenance.
 
 ---
 
-### 💰 Finance Empire — Personal Finance Platform
-A full-stack finance platform for tracking budgets, transactions, debts, goals, analytics, and notifications.
+## Selected Work
 
-- **Role:** Full Stack Developer
-- **Stack:** React, Vite, Tailwind CSS, Express, PostgreSQL, Prisma
-- **Highlights:**
-  - Dashboard, analytics, and transaction flows
-  - Budgeting, debts, goals, and notification system
-  - Structured full-stack architecture with scalable modules
+### 🎬 FilmZone
+A movie-focused web platform that I built and manage independently.
 
-**Links:**  
+- **Role:** Full Stack Developer  
+- **Stack:** React, Vite, Tailwind CSS, JavaScript, Express, PostgreSQL  
+- **Scope:** frontend development, deployment, domain/server setup, responsive UI, player integration  
+
+**Links**  
+
+---
+
+### 💰 Finance Empire
+A personal finance platform for tracking transactions, budgets, debts, goals, analytics, and notifications.
+
+- **Role:** Full Stack Developer  
+- **Stack:** React, Vite, Tailwind CSS, Express, PostgreSQL, Prisma  
+- **Scope:** dashboard flows, analytics, budgeting modules, structured full-stack architecture  
+
+**Links**  
 
 ---
 
 ### 🚨 Emergency Monitoring System
-A multi-level monitoring and alert platform for devices, incidents, and real-time coordination.
+A multi-level monitoring and alert platform with real-time updates, map-based UI, and incident management.
 
-- **Role:** Full Stack Developer
-- **Stack:** React, Vite, Tailwind CSS, Express, PostgreSQL, Socket.IO, MapLibre
-- **Highlights:**
-  - Real-time device monitoring and alert handling
-  - Map-based UI and incident workflows
-  - Backend APIs, role system, and live updates
+- **Role:** Full Stack Developer  
+- **Stack:** React, Vite, Tailwind CSS, Express, PostgreSQL, Socket.IO, MapLibre  
+- **Scope:** live monitoring, API design, map interface, alerts, role-based system  
 
 
+---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,nodejs,express,postgres,git,github,vscode" />
@@ -102,47 +95,39 @@ A multi-level monitoring and alert platform for devices, incidents, and real-tim
 - **Frontend:** React, Vite, Tailwind CSS, JavaScript
 - **Backend:** Express.js, PostgreSQL
 - **Tools:** Git, GitHub, VS Code, Chrome DevTools
-- **Other:** PWA Development, Responsive Design, REST API Integration, Deployment
+- **Other:** Responsive Design, PWA Development, REST API Integration, Deployment
 
-### Also familiar with
+### Also worked with
 - Prisma
-- Socket.IO
 - Zustand
-- i18next
 - Recharts
+- Socket.IO
+- i18next
 - MapLibre GL
 
 ---
 
-## 📈 What I Focus On
+## What I Focus On
 
-- Clean and maintainable frontend architecture 🧩
-- Fast, responsive, and polished interfaces ⚡
-- Real-world full-stack projects from idea to launch 🚀
-- Practical UI systems, dashboards, and web apps 💻
+- Clean and reusable frontend architecture
+- Fast and responsive user interfaces
+- Full-stack web products with practical value
+- Real deployment and production-ready workflows
+- UI systems that feel smooth across devices
 
 ---
 
-## 🌱 Currently Improving
+## Currently Improving
 
 - TypeScript
 - Next.js
-- Advanced backend architecture
-- Scalable project structure
+- Scalable architecture
 - Performance optimization
+- Advanced backend patterns
 
 ---
 
-## 🏆 Highlights
-
-- Built and launched independent web projects
-- Manage real deployment, domain, and server setup
-- Strong focus on frontend engineering and user experience
-- Comfortable working across both UI and backend layers
-
----
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=XayrulloWeb&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -151,7 +136,7 @@ A multi-level monitoring and alert platform for devices, incidents, and real-tim
 
 ---
 
-## 📫 Contact
+## Contact
 
 - **Email:** xayrulloweb@gmail.com
 - **Telegram:** https://t.me/Xayrusha
@@ -161,5 +146,5 @@ A multi-level monitoring and alert platform for devices, incidents, and real-tim
 ---
 
 <p align="center">
-  <i>"I build web products that are clean, useful, and ready for the real world."</i> ⭐
+  <i>Building web products that are clean, useful, and ready for the real world.</i>
 </p>
