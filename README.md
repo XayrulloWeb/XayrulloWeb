@@ -3,7 +3,7 @@
 ========================== -->
 
 <h1 align="center">
-  Xayrush
+  Xayrusha
 </h1>
 
 <p align="center">
